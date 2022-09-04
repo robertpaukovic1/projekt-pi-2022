@@ -49,6 +49,20 @@
           </p>
         </div>
       </div>
+      <br />
+      <br />
+      <div class="card" style="width: 30rem">
+        <div class="card-body">
+          <p>
+            Dana 01.10.2022. otvaraju se prijave kandidature za izbor novog
+            ravnatelja KBC-a Rebro.<br />
+            Svi medicinski djelatnici kandidaturu za ravnatelja mogu ispuniti i
+            poslati putem ove aplikacije.<br />
+            Prijave kandidature se primaju do 15.10 23:59 h.<br />Nakandna
+            prijava neće biti moguća.
+          </p>
+        </div>
+      </div>
     </div>
     <div class="col-3">
       <br />

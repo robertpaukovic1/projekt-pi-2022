@@ -39,17 +39,15 @@ const routes = [
   {
     path: '/signup',
     name: 'Signup',
-    component: () => import(/* webpackChunkName: "form" */ '../views/Signup.vue'),
+    component: () => import(/* webpackChunkName: "form" */ '../views/Signup.vue')
 
 
   },
   {
     path: '/votinglist',
     name: 'VotingList',
-    component: () => import(/* webpackChunkName: "votinglist" */ '../views/VotingList.vue'),
-    meta: {
-      needsUser: true
-    }
+    component: () => import(/* webpackChunkName: "votinglist" */ '../views/VotingList.vue')
+
 
   },
   {
