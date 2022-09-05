@@ -55,7 +55,11 @@ import store from "@/store.js";
 
 import { firebase } from "@/firebase";
 
+import router from "@/router";
+
 firebase.auth().onAuthStateChanged((user) => {
+  const currentRoute = router.currentRoute;
+
   if (user) {
     console.log(user.email);
     store.currentUser = user.email;
