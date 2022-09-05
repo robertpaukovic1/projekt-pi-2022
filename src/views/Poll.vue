@@ -126,7 +126,7 @@ export default {
   methods: {
     poll() {
       alert("Vaš glas je zabilježen");
-      this.$router.push({ name: "Home" });
+      this.$router.replace({ name: "Home" });
     },
   },
 };

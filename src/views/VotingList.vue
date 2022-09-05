@@ -43,7 +43,7 @@ export default {
   name: "votingList",
   methods: {
     votinglist() {
-      this.$router.push({ name: "Check" });
+      this.$router.replace({ name: "Check" });
     },
   },
 };

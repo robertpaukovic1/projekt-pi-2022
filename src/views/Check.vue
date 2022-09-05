@@ -144,7 +144,7 @@ export default {
   name: "check",
   methods: {
     check() {
-      this.$router.push({ name: "Poll" });
+      this.$router.replace({ name: "Poll" });
     },
   },
 };

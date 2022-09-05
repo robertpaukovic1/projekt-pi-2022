@@ -163,8 +163,8 @@ h3 {
   padding-right: 20px;
 }
 
-.card .card-img-top {
-  margin-right: 50px;
+.card-img-top {
+  margin-right: 80px;
 }
 
 .sticky-top {

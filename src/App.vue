@@ -4,10 +4,10 @@
       <div class="container-fluid">
         <a class="navbar brand" href="#"></a>
       </div>
-      <router-link to="/">NASLOVNICA</router-link> |
-      <router-link to="/help">ČESTA PITANJA</router-link> |
-      <router-link to="/login">GLASOVANJE</router-link> |
-      <router-link to="/form">PRIJAVA KANDIDATA</router-link> |
+      <router-link to="/">NASLOVNICA</router-link>
+      <router-link to="/help">ČESTA PITANJA</router-link>
+      <router-link to="/login">GLASOVANJE</router-link>
+      <router-link to="/form">PRIJAVA KANDIDATA</router-link>
       <a href="#" @click="logout()" color="blue">ODJAVA</a>
       <form class="d-flex" role="search">
         <input
@@ -44,6 +44,7 @@
 
     &.router-link-exact-active {
       color: #16784c;
+      display: inline-block;
     }
   }
 }
