@@ -97,7 +97,7 @@ export default {
           console.log("Uspješna registracija", result);
           this.$router.replace({ name: "VotingList" });
         })
-        .catch(function (error) {
+        .catch((error) => {
           console.error("Pogreška u registraciji", error);
         });
       console.log("Nastavak");
