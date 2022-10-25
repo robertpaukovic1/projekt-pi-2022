@@ -10,8 +10,8 @@
     <div class="d-grid gap-2">
       <button class="btn btn-primary" type="button" @click="votinglist">
         <b>
-          Lista kandidata za izbor novog dekana Medicinskog fakulteta u
-          Rijeci</b
+          Izbor kandidata za novog direktora gradskog komunalnog poduzeća
+          Hercualnea d.o.o Pula</b
         >
       </button>
     </div>

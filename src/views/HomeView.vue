@@ -12,35 +12,6 @@
       <div class="card" style="width: 30rem">
         <div class="card-body">
           <p>
-            Zaposlenici Sveučilišta u Rijeci<br />
-            Okušati će se po prvi puta<br />
-            na elektroničkom glasovanju 5.9.2022.<br />
-            Korisnici aplikacije prijavom na <br />
-            na poslovni i svoj korisnički račun <br />
-            moraju pristupiti listi, ispuniti obrazac pristupa <br />
-            te dobiti listu kandidata. <br />
-            Mogućnosti glasovanja su od 8:00 h do 12:00 h.<br />
-            Naknadno glasovanje nije moguće !!
-          </p>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div class="card" style="width: 30rem">
-        <div class="card-body">
-          <p>
-            Čitanje i proglašenje novog dekana<br />
-            na Sveučilištu u Rijeci održati će se 12.9 u 15:00 h.<br />
-            Konačna objava imena novog dekana biti će <br />
-            objavljena na stranice ove aplikacije
-          </p>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div class="card" style="width: 30rem">
-        <div class="card-body">
-          <p>
             U utorak 20.rujna u komunalnom poduzeću Herculanea u Puli,<br />započinju
             prijave kandidature za novog direktora poduzeća. Zaposlenici
             poduzeća prijavljuju svoje<br />kandidature na stranici "Prijava
@@ -54,12 +25,15 @@
       <div class="card" style="width: 30rem">
         <div class="card-body">
           <p>
-            Dana 01.10.2022. otvaraju se prijave kandidature za izbor novog
-            ravnatelja KBC-a Rebro.<br />
-            Svi medicinski djelatnici kandidaturu za ravnatelja mogu ispuniti i
-            poslati putem ove aplikacije.<br />
-            Prijave kandidature se primaju do 15.10 23:59 h.<br />Nakandna
-            prijava neće biti moguća.
+            U utorak 15 studenog, otvaraju se prijave kanidature za novog
+            ravnatelja ili ravnateljicu<br />gradske knjižnice i čitaonice u
+            Karlovcu. Zaposlenici koji se odluče kandidirati za ravnatelja dužni
+            su na ovoj aplikaciji prijaviti kanidaturu.<br />
+            Mala napomena je da zaposlenici kao novi korisnici<br />najprije
+            moraju se registrirati i prijaviti svojim računom u sustav
+            glasovanja.<br />
+            Prijave kanidature su moguće do kraja studenog. Naknadna prijava
+            nije moguća.
           </p>
         </div>
       </div>

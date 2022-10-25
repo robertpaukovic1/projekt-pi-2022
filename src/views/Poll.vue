@@ -3,8 +3,9 @@
   <br />
   <div class="quection-text">
     <p>
-      Od četiri ponuđena kandidata odaberite jednog i točno jednog kandidata.
-      Tko je po vama dekan medicinskog fakulteta u Rijeci ?
+      Od šest ponuđena kandidata odaberite jednog i točno jednog kandidata. Tko
+      je po vama novi direktor gradskog komunalnog poduzeća Hercualnea d.o.o
+      Pula ?
     </p>
   </div>
   <br />
@@ -19,8 +20,22 @@
       value=""
       aria-label="..."
     />
+    <label class="form-check-label" for="flexRadioDefault1"> Robi Fuart </label>
+  </div>
+  <br />
+  <br />
+  <br />
+  <div>
+    <input
+      class="form-check-input"
+      type="radio"
+      name="radioNoLabel"
+      id="radioNoLabel2"
+      value=""
+      aria-label="..."
+    />
     <label class="form-check-label" for="flexRadioDefault1">
-      izv.prof.dr.sc Vanja Kardum
+      Igor Vlašić
     </label>
   </div>
   <br />
@@ -36,23 +51,7 @@
       aria-label="..."
     />
     <label class="form-check-label" for="flexRadioDefault1">
-      doc.dr.sc Igor Bubalo
-    </label>
-  </div>
-  <br />
-  <br />
-  <br />
-  <div>
-    <input
-      class="form-check-input"
-      type="radio"
-      name="radioNoLabel"
-      id="radioNoLabel2"
-      value=""
-      aria-label="..."
-    />
-    <label class="form-check-label" for="flexRadioDefault1">
-      doc.dr.sc Alenka Jović Marinković
+      Marina Perkov Svilan
     </label>
   </div>
   <br />
@@ -72,7 +71,47 @@
       for="flexRadioDefault1"
       position="horisontal"
     >
-      prof.dr.sc Mario Lovrić
+      Vilma Kukoleča
+    </label>
+  </div>
+  <br />
+  <br />
+  <br />
+  <div>
+    <input
+      class="form-check-input"
+      type="radio"
+      name="radioNoLabel"
+      id="radioNoLabel2"
+      value=""
+      aria-label="..."
+    />
+    <label
+      class="form-check-label"
+      for="flexRadioDefault1"
+      position="horisontal"
+    >
+      Sonja Blašković Marin
+    </label>
+  </div>
+  <br />
+  <br />
+  <br />
+  <div>
+    <input
+      class="form-check-input"
+      type="radio"
+      name="radioNoLabel"
+      id="radioNoLabel2"
+      value=""
+      aria-label="..."
+    />
+    <label
+      class="form-check-label"
+      for="flexRadioDefault1"
+      position="horisontal"
+    >
+      Rudolfo Mazzoni
     </label>
   </div>
   <br />
