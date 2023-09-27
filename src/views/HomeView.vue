@@ -37,6 +37,17 @@
           </p>
         </div>
       </div>
+      <br />
+      <br />
+      <div class="card" style="width: 30rem">
+        <div class="card-body">
+          <p>
+            Uskoro se otvaraju prijave kandidature za<br />izbor novog direktora
+            hotela Ičići. Ovom obavješću neka se svi pripreme potencijalni
+            kandidati.
+          </p>
+        </div>
+      </div>
     </div>
     <div class="col-3">
       <br />
