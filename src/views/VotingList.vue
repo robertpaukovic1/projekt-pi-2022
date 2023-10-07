@@ -9,10 +9,7 @@
     <br />
     <div class="d-grid gap-2">
       <button class="btn btn-primary" type="button" @click="votinglist">
-        <b>
-          Izbor kandidata za novog direktora gradskog komunalnog poduzeća
-          Hercualnea d.o.o Pula</b
-        >
+        <b> Izbor kandidata za novog šefa kuhinje Hotela Ičići</b>
       </button>
     </div>
   </div>

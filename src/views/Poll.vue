@@ -3,9 +3,8 @@
   <br />
   <div class="quection-text">
     <p>
-      Od šest ponuđena kandidata odaberite jednog i točno jednog kandidata. Tko
-      je po vama novi direktor gradskog komunalnog poduzeća Hercualnea d.o.o
-      Pula ?
+      Od pet ponuđena kandidata odaberite jednog i točno jednog kandidata. Tko
+      je po vama novi šef kuhinje Hotela Ičići ?
     </p>
   </div>
   <br />
@@ -20,22 +19,8 @@
       value=""
       aria-label="..."
     />
-    <label class="form-check-label" for="flexRadioDefault1"> Robi Fuart </label>
-  </div>
-  <br />
-  <br />
-  <br />
-  <div>
-    <input
-      class="form-check-input"
-      type="radio"
-      name="radioNoLabel"
-      id="radioNoLabel2"
-      value=""
-      aria-label="..."
-    />
     <label class="form-check-label" for="flexRadioDefault1">
-      Igor Vlašić
+      Elio Brubnjak
     </label>
   </div>
   <br />
@@ -51,7 +36,23 @@
       aria-label="..."
     />
     <label class="form-check-label" for="flexRadioDefault1">
-      Marina Perkov Svilan
+      Vladimir Vučenov
+    </label>
+  </div>
+  <br />
+  <br />
+  <br />
+  <div>
+    <input
+      class="form-check-input"
+      type="radio"
+      name="radioNoLabel"
+      id="radioNoLabel2"
+      value=""
+      aria-label="..."
+    />
+    <label class="form-check-label" for="flexRadioDefault1">
+      Antonia Sušić
     </label>
   </div>
   <br />
@@ -71,7 +72,7 @@
       for="flexRadioDefault1"
       position="horisontal"
     >
-      Vilma Kukoleča
+      Matija Pauković
     </label>
   </div>
   <br />
@@ -91,27 +92,7 @@
       for="flexRadioDefault1"
       position="horisontal"
     >
-      Sonja Blašković Marin
-    </label>
-  </div>
-  <br />
-  <br />
-  <br />
-  <div>
-    <input
-      class="form-check-input"
-      type="radio"
-      name="radioNoLabel"
-      id="radioNoLabel2"
-      value=""
-      aria-label="..."
-    />
-    <label
-      class="form-check-label"
-      for="flexRadioDefault1"
-      position="horisontal"
-    >
-      Rudolfo Mazzoni
+      Mislav Mustapić
     </label>
   </div>
   <br />

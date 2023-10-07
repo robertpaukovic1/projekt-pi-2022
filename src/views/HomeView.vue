@@ -42,9 +42,10 @@
       <div class="card" style="width: 30rem">
         <div class="card-body">
           <p>
-            Uskoro se otvaraju prijave kandidature za<br />izbor novog direktora
-            hotela Ičići. Ovom obavješću neka se svi pripreme potencijalni
-            kandidati.
+            U ponedjeljak 9. listopada otvaraju se mogućnosti glasovanja za
+            <br />izbor novog šefa kuhinje u Hoetlu Ičići. Pravo glasovanja
+            imaju svi zaposlenici <br />
+            kuhinje Hotela Ičići. Glasovanje traje do 19:00 h.
           </p>
         </div>
       </div>

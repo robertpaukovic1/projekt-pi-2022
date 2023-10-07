@@ -60,6 +60,8 @@
       <select class="form-select" id="validationDefault04" required>
         <option selected disabled value="something">Odaberi status</option>
         <option>Direktor poduzeća</option>
+        <option>Zaposlenik</option>
+        <option>Direktor Hotela</option>
         <option>Menadžer taktičkih poslova</option>
         <option>Menadžer operativnih poslovnih aktivnosti</option>
         <option>Ravnatelj,Prodekan,Dekan,Prorektor,Rektor</option>
@@ -68,6 +70,7 @@
         <option>Administrator</option>
         <option>Računovođa</option>
         <option>Učenik,student</option>
+        <option>Menadžer operativnih poslova</option>
       </select>
       <div class="invalid-feedback">Odaberite status</div>
     </div>
@@ -84,6 +87,7 @@
         <option>Vrtići,škole,sveučilište,fakulteti</option>
         <option>Zdravstvene ustanove, bolnice i domovi zdravlja</option>
         <option>ICT poduzeća</option>
+        <option>Hoteli i druge uslužne djelatnosti</option>
       </select>
       <div class="invalid-feedback">Odaberite ustanovu</div>
     </div>
